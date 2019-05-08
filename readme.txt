@@ -1,4 +1,4 @@
-ndk±àÒë³öÀ´curltest£¬
+ndkç¼–è¯‘å‡ºæ¥curltestï¼Œ
 adb push curl /data/local/tmp/curl
 adb shell chmod 777 /data/local/tmp/curl
 adb shell
